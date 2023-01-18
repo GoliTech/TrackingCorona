@@ -1,1 +1,2 @@
 it is just a test to chekc the squash.
+the second test
